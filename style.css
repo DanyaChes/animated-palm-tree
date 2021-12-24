@@ -1,0 +1,106 @@
+/*  http://help-html-css.narod.ru/  */
+
+body {
+background: #111 url(im/fon.jpg) repeat;
+margin:0;
+padding:0;
+}
+#con{
+background-color:#F3EDE9;
+} 
+.header{
+height:160px;
+background: #AA3517 url(im/logo.jpg) no-repeat;
+}  
+.photo{
+background-color:#EADED7;
+border-top : 1px solid #C4A491;
+border-bottom : 1px solid #C4A491;
+} 
+.footer{
+height:100px;
+background: #8A2B13 url(im/bf.jpg) no-repeat;
+ } 
+
+.footer p{
+font:10px verdana, arial, helvetica, sans-serif;
+text-align:center;color:#8F4F30;
+ } 
+.footer a{
+font:10px verdana, arial, helvetica, sans-serif;
+color:#8F4F30;
+ } 
+div{
+color:#777;
+font:11px verdana, arial, helvetica, sans-serif;
+text-align:center;
+ } 
+.left {
+background: #29282D url(im/left.jpg) repeat-y;
+ } 
+.content {
+background-color:#F3EDE9;
+ } 
+.content p{
+padding : 0 16px 0 18px;
+line-height:1.7;
+text-align : justify;
+ } 
+strong{
+padding : 0 9px ;
+font:14px verdana, arial, helvetica, sans-serif;
+font-weight:700;color:#7B6666;
+ } 
+.im1, .im2, .im3, .im4, .im5, .im6, .im7, .im8{
+padding : 0 7px 0 7px ;
+ } 
+h1  {
+color:#E97852;
+font:32px verdana, arial, helvetica, sans-serif;
+margin: 0;
+padding : 0;
+}
+h2  {
+font:26px verdana, arial, helvetica, sans-serif;
+color:#7B6666;
+margin: 18px 0 0 15px;
+}
+.em  {
+color:#807620;
+margin: 0;
+padding : 0;
+}
+.l-m {
+background:url(im/lh4.jpg) no-repeat;
+height:61px;
+margin:0;
+padding:0;
+}
+.sp{
+display:none;
+}
+
+ul.menu {
+list-style-type:none;
+line-height:1.5;
+margin:10px 0 0 24px;
+padding:0;
+}
+.menu li a {
+color:#926750; 
+font:12px verdana, arial, helvetica, sans-serif;
+text-decoration:none;
+font-weight:900;
+line-height:1.9;
+}
+.menu li a:visited {
+color:#926750; 
+font:12px verdana, arial, helvetica, sans-serif;
+font-weight:900;line-height:1.9;
+}
+.menu li a:hover,.menu li a:active {
+color:#AD8169;
+font:12px verdana, arial, helvetica, sans-serif;
+font-weight:900;
+text-decoration:underline;line-height:1.9;
+}
